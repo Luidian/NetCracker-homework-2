@@ -1,6 +1,5 @@
 package com.example.entity;
 
-import com.example.entity.bank.BankCashDesk;
 import java.util.List;
 
 /**

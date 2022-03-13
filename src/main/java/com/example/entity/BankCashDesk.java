@@ -1,4 +1,4 @@
-package com.example.entity.bank;
+package com.example.entity;
 
 /**
  * @author Alexanrd Spaskin

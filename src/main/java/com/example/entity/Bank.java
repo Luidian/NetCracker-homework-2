@@ -1,7 +1,5 @@
-package com.example.entity.bank;
+package com.example.entity;
 
-import com.example.entity.Customer;
-import com.example.entity.Teller;
 import com.example.generator.Generator;
 
 import java.util.*;
